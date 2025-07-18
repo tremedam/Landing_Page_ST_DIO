@@ -4,7 +4,7 @@
 
 ## Sobre o Projeto
 
-Esta landing page é inspirada na série Stranger Things e foi criada para fins didáticos, colocando em prática conceitos de HTML, CSS e JavaScript aprendidos no bootcamp. O objetivo é apresentar uma página interativa, com troca de temas (mundo normal e mundo invertido), galeria de imagens, trailer e formulário de inscrição para um clube fictício de Dungeons & Dragons.
+Esta landing page é inspirada na série Stranger Things e foi criada para fins didáticos, colocando em prática conceitos de HTML e CSS aprendidos no bootcamp. O objetivo é apresentar uma página interativa, com troca de temas (mundo normal e mundo invertido), galeria de imagens, trailer e formulário de inscrição para um clube fictício de Dungeons & Dragons.
 
 ## Funcionalidades
 
